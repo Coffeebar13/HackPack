@@ -5,7 +5,7 @@
 // @description  Injects UchiHack v2.4.1
 // @author       TheAirBlow
 // @match        *://*/*
-// @icon         https://cdn.jsdelivr.net/gh/theairblow/hackpack/uchihack/icons/192.png
+// @icon         https://cdn.jsdelivr.net/gh/coffeebar13/hackpack/uchihack/icons/192.png
 // @grant        none
 // ==/UserScript==
 
@@ -17,7 +17,7 @@
         return new RegExp("^" + rule.split("*").map(escapeRegex).join(".*") + "$").test(str);
     }
 
-    var root = "https://cdn.jsdelivr.net/gh/theairblow/hackpack/uchihack/";
+    var root = "https://cdn.jsdelivr.net/gh/coffeebar13/hackpack/uchihack/";
     var rawConfig = await fetch(root + "injector/config.json");
     var config = await rawConfig.json();
 
