@@ -5,7 +5,7 @@
 // @description  Inject REHack v1.0.4
 // @author       TheAirBlow
 // @match        *://*/*
-// @icon         https://cdn.jsdelivr.net/gh/theairblow/hackpack/rehack/icons/128.png
+// @icon         https://cdn.jsdelivr.net/gh/coffeebar13/hackpack/rehack/icons/128.png
 // @grant        none
 // ==/UserScript==
 
@@ -17,7 +17,7 @@
         return new RegExp("^" + rule.split("*").map(escapeRegex).join(".*") + "$").test(str);
     }
 
-    var root = "https://cdn.jsdelivr.net/gh/theairblow/hackpack/rehack/";
+    var root = "https://cdn.jsdelivr.net/gh/coffeebar13/hackpack/rehack/";
     var rawConfig = await fetch(root + "injector/config.json");
     var config = await rawConfig.json();
 
