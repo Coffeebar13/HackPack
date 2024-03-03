@@ -4,11 +4,11 @@
 P.S. Спойлеры по разработке [тут](https://github.com/TheAirBlow/HackPack/blob/main/Methods.md)
 
 ## Доступные взломы
-* 📗 [Uchi.ru](https://uchi.ru) - Аддон Firefox, [репозиторий проекта](https://github.com/TheAirBlow/HackPack/blob/main/uchihack)
+* 📗 [Uchi.ru](https://uchi.ru) - Аддон Firefox, [репозиторий проекта](https://github.com/Coffeebar13/HackPack/tree/main/uchihack)
     * Нажмите на кнопку "Solve all exercises", все задания решатся через пару секунд
     * Навсегда останется плагином по техническим причинам
 
-* 📗 [РЭШ](https://resh.edu.ru) - Аддон Firefox, [репозиторий проекта](https://github.com/TheAirBlow/HackPack/blob/main/rehack)
+* 📗 [РЭШ](https://resh.edu.ru) - Аддон Firefox, [репозиторий проекта](https://github.com/Coffeebar13/HackPack/tree/main/rehack)
     * Автоматически решит задание, никаких лишних действий
     * ~~может положить ваш интернет~~
 
