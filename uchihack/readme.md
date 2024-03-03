@@ -10,7 +10,7 @@
 ### DevTools (код элемента)
 1) ПКМ -> Код элемента или Shift + F7
 2) Откройте консоль (кнопка сверху)
-3) Вставьте код из [этого](https://github.com/theairblow/hackpack/blob/main/uchihack/misc/devtools.js) файла
+3) Вставьте код из [этого](https://github.com/coffeebar13/hackpack/tree/main/uchihack/misc/devtools.js) файла
 
 ### Tampermonkey
 Это в случае если у вас браузер Chrome, Yandex, Opera... \
@@ -19,7 +19,7 @@
 доступен для каждого браузера.
 
 1) Установите плагин Tampermonkey
-2) Нажмите [суда](https://github.com/theairblow/hackpack/blob/main/uchihack/misc/script.user.js)
+2) Нажмите [суда](https://github.com/coffeebar13/hackpack/tree/main/uchihack/misc/script.user.js)
 3) Цыганские фокусы!
 
 ### Аддон Firefox
